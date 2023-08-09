@@ -1,3 +1,3 @@
+#include
 #!/usr/bin/python3
 #!/bin/bash
-export PYFILE=main.py
